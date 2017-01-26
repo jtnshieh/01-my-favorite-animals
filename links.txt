@@ -1,0 +1,5 @@
+Penguin link: https://en.wikipedia.org/wiki/Penguin
+Beaver link: https://en.wikipedia.org/wiki/Beaver
+Cat link: http://www.rd.com/advice/pets/how-to-decode-your-cats-behavior/
+Dog link: http://www.animalplanet.com/pets/dogs/
+Dolphin link: http://www.defenders.org/dolphin/basic-facts
